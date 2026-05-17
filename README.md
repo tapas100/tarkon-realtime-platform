@@ -58,7 +58,7 @@ docs/
 helm/
   realtime-platform/
 Dockerfile
-docker-compose.yml
+podman-compose.yml
 ```
 
 ---
